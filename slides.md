@@ -2,9 +2,7 @@
 # Title
 ## Subtitle
 
-
 ---
-
 
 ### Index of contents
 
@@ -12,21 +10,16 @@
 - Second element
 - Third element
 
-
 ---
-
 
 ### First element
 
 This is an example.
 
-
 ------
 
 Example text.
-    
 
 ---
 
-
-![ALternative text](/img/test_image.jpg "Text to show on mouseover")
+<img src="img/test_image.jpg" alt="drawing" width="600"/>
