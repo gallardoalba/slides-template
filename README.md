@@ -1,4 +1,3 @@
-# slides-template
 Template for creating slides in reveal.js
 
 ---
