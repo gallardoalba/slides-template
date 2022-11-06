@@ -1,6 +1,4 @@
-Template for creating slides in reveal.js
-
----
+### Template for creating slides in reveal.js
 
 Keyboard shortcuts
 - CAPSLOCK: laser pointer
