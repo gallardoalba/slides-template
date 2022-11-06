@@ -19,7 +19,3 @@ This is an example.
 ------
 
 Example text.
-
----
-
-<img src="img/test_image.jpg" alt="drawing" width="600"/>
